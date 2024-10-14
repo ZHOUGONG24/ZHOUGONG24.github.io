@@ -20,9 +20,9 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Fw190
+title   : "Fw190'Blog"
 description: > # this means to ignore newlines until "Language & timezone"
-  This is a blog made by Fw190
+  "This is a blog made by Fw190"
 
 
 ## => Language and Timezone
@@ -35,10 +35,10 @@ timezone:Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : KANGZIHAO
+  name      : "Fw190"
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : UESTC student
+  bio       : "UESTC student"
   email     :LoveFw190@outlook.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
